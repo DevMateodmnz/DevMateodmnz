@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Hola, soy Mateo Gabriel Domínguez
+💻 Fullstack Web Developer | 🚀 Apasionado por la IA y el desarrollo creativo
 
-<!--
-**DevMateodmnz/DevMateodmnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋 Sobre mí
+- 📍 Tucumán, Argentina  
+- 🎓 Estudiante de Desarrollo y Calidad de Software + futuro Ing. en Inteligencia Artificial  
+- ⚡ Me gusta crear aplicaciones web funcionales, minimalistas y con impacto real  
+- 🌱 Actualmente aprendiendo más sobre backend y escalabilidad  
+- 🎯 Objetivo: crecer como desarrollador fullstack y aportar soluciones creativas en la industria tech
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+**Frontend:** React, HTML, CSS, JavaScript  
+**Backend:** Node.js, Express  
+**Bases de datos:** MongoDB, PostgreSQL  
+**Otros:** Git, REST APIs, SEO, Optimización de rendimiento  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos Destacados
+- [🔗 Barber App](link) — Agenda online para barberías con reservas, usuarios y panel admin.  
+- [🔗 Juego de Búsqueda de Personajes](link) — App web con imágenes interactivas, tiempos y tablas de puntuación.  
+- [🔗 Marketplace de Servicios](link) — MERN app para contratar servicios como plomería o jardinería con chat en tiempo real.  
+
+## Experiencia
+
+## Contacto
+
+![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=dracula)
