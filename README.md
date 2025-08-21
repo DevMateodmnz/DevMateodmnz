@@ -9,9 +9,12 @@
 - 🎯 Objetivo: crecer como desarrollador fullstack y aportar soluciones creativas en la industria tech
 
 ## 🛠️ Skills
-**Frontend:** React, HTML, CSS, JavaScript  
-**Backend:** Node.js, Express  
-**Bases de datos:** MongoDB, PostgreSQL  
+**Frontend:** React, HTML, CSS, JavaScript
+
+**Backend:** Node.js, Express
+
+**Bases de datos:** MongoDB, PostgreSQL
+
 **Otros:** Git, REST APIs, SEO, Optimización de rendimiento  
 
 ## 🚀 Proyectos Destacados
