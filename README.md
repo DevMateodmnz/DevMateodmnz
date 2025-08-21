@@ -19,6 +19,6 @@
 - [🔗 Juego de Búsqueda de Personajes](link) — App web con imágenes interactivas, tiempos y tablas de puntuación.  
 - [🔗 Marketplace de Servicios](link) — MERN app para contratar servicios como plomería o jardinería con chat en tiempo real.  
 
-## Experiencia
+## 🔨 Experiencia
 
-## Contacto
+## 📲 Contacto
