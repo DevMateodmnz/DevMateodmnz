@@ -1,30 +1,277 @@
-Hola, soy Mateo 👋
-
-🚀 Desarrollador Full Stack certificado por Meta con experiencia en tecnologías modernas para crear aplicaciones web y móviles escalables.
-<br></br>
-📜 Certificaciones Meta
-<br></br>
-🏅 The Full Stack (Meta)
-
-🏅 React Native (Meta)
-
-🏅 Advanced React (Meta)
-
-🏅 Front-End Developer Capstone (Meta)
-
-🏅 Principles of UX/UI Design (Meta)
-
-🏅 HTML and CSS in Depth (Meta)
-
-🏅 Programming with JavaScript (Meta)
-
-🏅 Version Control (Meta)
-<br></br>
-🛠️ Tech Stack
-<br></br>
-<table> <tr> <td><strong>Lenguajes & Core</strong></td> <td> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img alt="PyPI" src="https://img.shields.io/pypi/pyversions/:packageName">
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI"> </td> </tr> <tr> <td><strong>Frameworks & Librerías</strong></td> <td> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"> </td> </tr> <tr> <td><strong>Bases de Datos</strong></td> <td> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> </td> </tr> <tr> <td><strong>APIs & Herramientas</strong></td> <td> <img src="https://img.shields.io/badge/REST-FF6F61?style=for-the-badge" alt="REST API"> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"> </td> </tr> <tr> <td><strong>Infra & Control de Versiones</strong></td> <td> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"> </td> </tr> </table>
-<br></br>
-📫 Contáctame
-<div align="center"> <a href="https://www.linkedin.com/in/mateo-dominguez-b09954291/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> </div>
-⭐️ From DevMateodnnz
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Habilidades Técnicas - Especializaciones Meta</title>
+    <style>
+        :root {
+            --primary: #2563eb;
+            --secondary: #4f46e5;
+            --accent: #8b5cf6;
+            --light: #f3f4f6;
+            --dark: #1f2937;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f9fafb;
+            margin: 0;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+            padding: 30px;
+        }
+        
+        h1 {
+            text-align: center;
+            color: var(--dark);
+            margin-bottom: 30px;
+            font-size: 2.5rem;
+            font-weight: 700;
+        }
+        
+        .skills-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 30px;
+        }
+        
+        .skills-table th {
+            background: linear-gradient(to right, var(--primary), var(--secondary));
+            color: white;
+            padding: 16px;
+            text-align: left;
+            font-size: 1.2rem;
+        }
+        
+        .skills-table td {
+            padding: 14px 16px;
+            border-bottom: 1px solid #e5e7eb;
+            vertical-align: top;
+        }
+        
+        .skills-table tr:nth-child(even) {
+            background-color: #f8fafc;
+        }
+        
+        .skills-table tr:hover {
+            background-color: #eff6ff;
+        }
+        
+        .skill-category {
+            font-weight: 600;
+            color: var(--dark);
+            width: 18%;
+        }
+        
+        .skill-items {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        
+        .skill-item {
+            background: var(--light);
+            padding: 8px 14px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+            display: inline-block;
+            margin: 4px;
+            transition: all 0.2s ease;
+        }
+        
+        .skill-item:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            background: #e0e7ff;
+        }
+        
+        .new-skill {
+            background: #dcfce7;
+            border-left: 4px solid #22c55e;
+        }
+        
+        .legend {
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            margin-top: 20px;
+            font-size: 0.9rem;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin-left: 20px;
+        }
+        
+        .legend-color {
+            width: 16px;
+            height: 16px;
+            border-radius: 4px;
+            margin-right: 8px;
+        }
+        
+        .new-color {
+            background: #dcfce7;
+        }
+        
+        .original-color {
+            background: var(--light);
+        }
+        
+        @media (max-width: 768px) {
+            .skills-table {
+                display: block;
+                overflow-x: auto;
+            }
+            
+            .skill-category {
+                width: 25%;
+            }
+            
+            .container {
+                padding: 15px;
+            }
+            
+            h1 {
+                font-size: 1.8rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Habilidades Técnicas - Especializaciones Meta</h1>
+        
+        <table class="skills-table">
+            <thead>
+                <tr>
+                    <th>Categoría</th>
+                    <th>Tecnologías y Herramientas</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="skill-category">Lenguajes & Core</td>
+                    <td>
+                        <div class="skill-items">
+                            <span class="skill-item">JAVASCRIPT</span>
+                            <span class="skill-item">NODE.JS</span>
+                            <span class="skill-item">HTML5</span>
+                            <span class="skill-item">CSS3</span>
+                            <span class="skill-item">TAILWIND CSS</span>
+                            <span class="skill-item">MATERIAL UI</span>
+                            <span class="skill-item new-skill">PYTHON</span>
+                            <span class="skill-item new-skill">TYPESCRIPT</span>
+                            <span class="skill-item new-skill">PHP</span>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="skill-category">Frameworks & Librerías</td>
+                    <td>
+                        <div class="skill-items">
+                            <span class="skill-item">REACT</span>
+                            <span class="skill-item">REACT NATIVE</span>
+                            <span class="skill-item">NEXT.JS</span>
+                            <span class="skill-item">EXPRESS.JS</span>
+                            <span class="skill-item new-skill">DJANGO</span>
+                            <span class="skill-item new-skill">DJANGO REST</span>
+                            <span class="skill-item new-skill">REDUX</span>
+                            <span class="skill-item new-skill">APOLLO CLIENT</span>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="skill-category">Bases de Datos</td>
+                    <td>
+                        <div class="skill-items">
+                            <span class="skill-item">MONGODB</span>
+                            <span class="skill-item new-skill">POSTGRESQL</span>
+                            <span class="skill-item new-skill">MYSQL</span>
+                            <span class="skill-item new-skill">SQLite</span>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="skill-category">APIs & Herramientas</td>
+                    <td>
+                        <div class="skill-items">
+                            <span class="skill-item">REST</span>
+                            <span class="skill-item">GRAPHQL</span>
+                            <span class="skill-item">POSTMAN</span>
+                            <span class="skill-item">JWT</span>
+                            <span class="skill-item">SOCKET.IO</span>
+                            <span class="skill-item new-skill">APOLLO SERVER</span>
+                            <span class="skill-item new-skill">OAUTH</span>
+                            <span class="skill-item new-skill">WEBPACK</span>
+                            <span class="skill-item new-skill">BABEL</span>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="skill-category">Infra & Control de Versiones</td>
+                    <td>
+                        <div class="skill-items">
+                            <span class="skill-item">GIT</span>
+                            <span class="skill-item">GITHUB</span>
+                            <span class="skill-item">AWS</span>
+                            <span class="skill-item">NPM</span>
+                            <span class="skill-item new-skill">DOCKER</span>
+                            <span class="skill-item new-skill">KUBERNETES</span>
+                            <span class="skill-item new-skill">CI/CD</span>
+                            <span class="skill-item new-skill">HEROKU</span>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="skill-category">Testing & QA</td>
+                    <td>
+                        <div class="skill-items">
+                            <span class="skill-item new-skill">JEST</span>
+                            <span class="skill-item new-skill">REACT TESTING LIBRARY</span>
+                            <span class="skill-item new-skill">CYPRESS</span>
+                            <span class="skill-item new-skill">UNIT TESTING</span>
+                            <span class="skill-item new-skill">INTEGRATION TESTING</span>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="skill-category">Desarrollo Móvil</td>
+                    <td>
+                        <div class="skill-items">
+                            <span class="skill-item">REACT NATIVE</span>
+                            <span class="skill-item new-skill">EXPO</span>
+                            <span class="skill-item new-skill">ANDROID STUDIO</span>
+                            <span class="skill-item new-skill">XCODE</span>
+                            <span class="skill-item new-skill">MOBILE UI/UX</span>
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <div class="legend">
+            <div class="legend-item">
+                <div class="legend-color original-color"></div>
+                <span>Habilidades originales</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color new-color"></div>
+                <span>Nuevas habilidades sugeridas</span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
