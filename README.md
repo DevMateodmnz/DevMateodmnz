@@ -1,100 +1,134 @@
-<h1 align="center">Hola 👋, soy Mateo</h1>
-<h3 align="center">🚀 Desarrollador Full Stack certificado por Meta</h3>
+<h1 align="center">Hi, I'm Mateo Domínguez 👋</h1>
+
+<h3 align="center">
+Software Developer | Backend & Mobile Development
+</h3>
+
+<p align="center">
+  <strong>2+ years of freelance experience</strong> building real-world software products with TypeScript, Node.js, PostgreSQL and React Native.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mateo-dominguez-b09954291/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mateo_dominguez-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mateo%20Dom%C3%ADnguez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mateogabrieldominguez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mateogabrieldominguez@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevMateodnnz&label=Profile%20views&color=0e75b6&style=flat" alt="DevMateodnnz" />
 </p>
 
 ---
 
-### 📜 Certificaciones Meta
+## About Me
 
-- 🏅 **The Full Stack** - Meta
-- 🏅 **React Native** - Meta
-- 🏅 **Advanced React** - Meta
-- 🏅 **Front-End Developer Capstone** - Meta
-- 🏅 **Principles of UX/UI Design** - Meta
-- 🏅 **HTML and CSS in Depth** - Meta
-- 🏅 **Programming with JavaScript** - Meta
-- 🏅 **Version Control** - Meta
+I'm a software developer from Argentina with more than two years of freelance experience building backend, mobile and full-stack applications.
 
----
+My main focus is turning real requirements into reliable software: designing APIs and databases, implementing business logic, authentication and authorization, testing applications, integrating external services and deploying systems to production.
 
-### 🛠️ Tech Stack
+I'm currently studying **Software Development and Quality at UNSTA** while continuing to build independent and professional software projects.
 
-#### Lenguajes & Core
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+My strongest areas today are:
 
-#### Frameworks & Librerías
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+* Backend development with **TypeScript, Node.js and Express**
+* Relational databases with **PostgreSQL and Prisma**
+* Mobile development with **React Native and Expo**
+* REST API design and third-party integrations
+* Automated testing and debugging
+* Authentication, authorization and role-based access
+* Docker, Linux, Git/GitHub and production deployments
+* AI-powered application integrations
 
-#### Bases de Datos
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-#### APIs & Herramientas
-![REST](https://img.shields.io/badge/REST-FF6F61?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-EC1C24?style=for-the-badge&logo=oauth&logoColor=white)
-
-#### Infra & Control de Versiones
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-00A4EF?style=for-the-badge)
-
-#### Testing & QA
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![Unit Testing](https://img.shields.io/badge/Unit_Testing-00A4EF?style=for-the-badge)
-![Integration Testing](https://img.shields.io/badge/Integration_Testing-00A4EF?style=for-the-badge)
-
-#### Desarrollo Móvil
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Mobile UI/UX](https://img.shields.io/badge/Mobile_UI/UX-00A4EF?style=for-the-badge)
+I'm particularly interested in **backend engineering, software architecture, mobile development and AI-integrated applications**.
 
 ---
 
-### 📫 Contáctame
+## Featured Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mateo-dominguez-b09954291/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mateo_dominguez-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mateogabrieldominguez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mateogabrieldominguez@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
+### Barber Up — SaaS for Barbershops
+
+An end-to-end SaaS platform designed to help barbershops manage appointments, employees, services, schedules and business operations.
+
+I worked across the complete product lifecycle: backend architecture, relational database design, mobile development, automated testing and production deployment.
+
+**Engineering highlights:** appointment conflict prevention, role-based access, working-hours and availability systems, analytics, background jobs, notifications, loyalty features, commissions, transactional workflows and database migrations.
+
+**Stack:** TypeScript · Node.js · Express · PostgreSQL · Prisma · React Native · Expo · Clerk · Docker
+
+> Production source code is private. A public technical showcase and documentation are available separately.
+
+---
+
+### AI-Powered WhatsApp Business Assistant
+
+A backend system that connects conversational AI with business data and WhatsApp messaging workflows.
+
+The project includes persistent customers, conversations and messages, API validation, idempotent message handling, AI integration and a durable message-delivery lifecycle.
+
+It evolved from a client-specific prototype into a more general architecture for AI-powered business communication.
+
+**Stack:** TypeScript · Node.js · PostgreSQL · Prisma · REST APIs · WhatsApp integration · LLM APIs
+
+> Production source code is private. A public technical showcase and documentation are available separately.
+
+---
+
+### MERN E-Commerce
+
+A full-stack e-commerce platform featuring authentication, product and order management, payments, an administrative dashboard and analytics.
+
+**Stack:** React · Node.js · Express · MongoDB · Redis · Stripe · Cloudinary · Tailwind CSS
+
+[View repository](https://github.com/DevMateodmnz/mern-ecommerce)
+
+---
+
+## Core Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<p align="center">⭐️ From <a href="https://github.com/DevMateodnnz">DevMateodnnz</a></p>
+### Also worked with
+
+JavaScript · React · MongoDB · SQL · Jest · React Testing Library · REST APIs · JWT · OAuth · CI/CD · AWS
+
+---
+
+## Education & Certifications
+
+**Software Development and Quality**
+Universidad del Norte Santo Tomás de Aquino — UNSTA
+Expected graduation: 2027
+
+**Meta Front-End Development Professional Certificate**
+
+**Meta Back-End Development Professional Certificate**
+
+**Cambridge B2 First — English**
+
+---
+
+## What I'm Working Toward
+
+I'm continuing to grow as a software engineer while expanding my knowledge of artificial intelligence and machine learning.
+
+Long term, I'm particularly interested in applying software engineering and AI to increasingly complex technical and scientific problems.
+
+---
+
+## Contact
+
+**LinkedIn:** [Mateo Domínguez](https://www.linkedin.com/in/mateo-dominguez-b09954291/)
+
+**GitHub:** [@DevMateodmnz](https://github.com/DevMateodmnz)
+
+**Email:** [mateogabrieldominguez@gmail.com](mailto:mateogabrieldominguez@gmail.com)
