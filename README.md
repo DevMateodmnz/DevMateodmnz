@@ -17,6 +17,10 @@ Software Developer | Backend & Mobile Development
   </a>
 </p>
 
+<p align="center">
+  Featured work: <a href="https://github.com/DevMateodmnz/BarberApp-3.0"><strong>BarberApp-3.0</strong></a> · <a href="https://github.com/DevMateodmnz/kamikaze-ai"><strong>Kamikaze AI</strong></a>
+</p>
+
 ---
 
 ## About Me
