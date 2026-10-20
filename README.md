@@ -44,7 +44,7 @@ I'm particularly interested in **backend engineering, software architecture, mob
 
 ## Featured Projects
 
-### Barber Up — SaaS for Barbershops
+### [Barber Up — SaaS for Barbershops](https://github.com/DevMateodmnz/BarberApp-3.0)
 
 An end-to-end SaaS platform designed to help barbershops manage appointments, employees, services, schedules and business operations.
 
@@ -54,11 +54,11 @@ I worked across the complete product lifecycle: backend architecture, relational
 
 **Stack:** TypeScript · Node.js · Express · PostgreSQL · Prisma · React Native · Expo · Clerk · Docker
 
-> Production source code is private. A public technical showcase and documentation are available separately.
+[View the BarberApp-3.0 source code](https://github.com/DevMateodmnz/BarberApp-3.0)
 
 ---
 
-### AI-Powered WhatsApp Business Assistant
+### [AI-Powered WhatsApp Business Assistant](https://github.com/DevMateodmnz/kamikaze-ai)
 
 A backend system that connects conversational AI with business data and WhatsApp messaging workflows.
 
@@ -68,7 +68,7 @@ It evolved from a client-specific prototype into a more general architecture for
 
 **Stack:** TypeScript · Node.js · PostgreSQL · Prisma · REST APIs · WhatsApp integration · LLM APIs
 
-> Production source code is private. A public technical showcase and documentation are available separately.
+[View the Kamikaze AI source code](https://github.com/DevMateodmnz/kamikaze-ai)
 
 ---
 
